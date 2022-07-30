@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    text-align: center;
+    /* font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; */
+    /* font-family: fantasy; */
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Merriweather', serif;
+
+
+}
+
+h1 {
+    font-size: 4.99rem;
+    margin-top: 0;
+    display: block;
+    font-family: 'Sacramento', cursive;
+
+
+}
+
+
+.top-container {
+    background-color: aqua;
+    padding-top: 100px;
+    position: relative;
+
+
+}
+
+.topcloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottomcloud {
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+
+
+
+
+.und {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+.Top {
+    border: solid 10px;
+    padding: 20px;
+}
+
+.red {
+    background-color: red;
+    border: solid 20px;
+    margin-left: 260px;
+}
+
+.blue {
+    background-color: yellow;
+    border: solid 10px;
+    margin-left: 500px;
+
+
+}
+
+.a {
+    background-color: blue;
+    /* display: inline; */
+/* display: inline-block;
+
+
+}
+
+.b {
+    background-color: yellow;
+    position: relative;
+    right: 10px;
+    display: inline-block;
+
+
+}
+
+.c {
+    background-color: red;
+    position: relative;
+    right: 20px;
+    display: inline-block;
+
+
+}
+
+.aa {
+    background-color: blue;
+    position: absolute;
+    top: 1000px;
+
+
+
+}
+
+.bb {
+    background-color: yellow;
+    position: absolute;
+    top: 1200px;
+    left: 200px;
+
+
+
+}
+
+.cc {
+    background-color: red;
+    position: absolute;
+    top: 1400px;
+
+    left: 400px;
+
+
+
+}  */
